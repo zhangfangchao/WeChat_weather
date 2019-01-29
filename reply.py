@@ -1,3 +1,4 @@
+```python
 #-*- coding: utf-8 -*
 from wxpy import *
 import schedule
@@ -42,3 +43,4 @@ def print_frinds_masg(msg):
 			
 
 bot.join()
+```
